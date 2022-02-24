@@ -1,4 +1,4 @@
-# BlockChainRPG
+# BlockChainRPG-Script
 BlockChainRPG on Wax
 Based on Tampermonkey
 
