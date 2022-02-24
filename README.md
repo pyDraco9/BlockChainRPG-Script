@@ -1,5 +1,6 @@
 # BlockChainRPG-Script
 BlockChainRPG on Wax
+
 Config "huntTarget" and "huntConfig" to use
 
 Based on Tampermonkey
